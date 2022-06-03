@@ -1,10 +1,10 @@
-#include <stdio>
-#include <unistd>
+#include <stdio.h>
+#include <unistd.h>
 
 /**
- * main - use to retun the integer value 1
+ * main - use to return the integer value 1
  *
- * Description: use the print to standard ouput in the main function
+ * Description: use to print to standard output in the main function
  *
  * Return: return the value 1
  *
