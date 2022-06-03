@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <ctype.h>
 /**
- *
  * main - return the required output
  *
  * Description: print a to z in upper and lower
