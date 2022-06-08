@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - print out every minutes
+ * jack_bauer - print out every minutes
  *
  * Description: print out the required results
  *
