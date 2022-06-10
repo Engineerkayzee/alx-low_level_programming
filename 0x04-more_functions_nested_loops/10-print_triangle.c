@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_triangle - print backward triangle of n size 
+ * print_triangle - print backward triangle of n size
  * @size: size of square
  *
  */
